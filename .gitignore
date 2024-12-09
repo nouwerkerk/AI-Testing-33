@@ -3,3 +3,4 @@ __pycache__/
 .idea/
 *.pyc
 Pipfile.lock
+data/data_descriptions_formatted.xlsx
